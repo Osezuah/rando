@@ -8,5 +8,8 @@ int main(void)
 
 	cout << "Make the best out of life!" << endl;
 	cout << "Christ is at the center of our lives forever!" << endl;
+
+	string Love = "God";
+	string Peace = "Christ";
 	return 0;
 }
