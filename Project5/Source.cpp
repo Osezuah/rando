@@ -11,8 +11,5 @@ int main(void)
 
 	string Love = "God";
 	string Peace = "Christ";
-
-	if (2 + 2 == 4)
-		cout << Peace << " is " << Love << endl; 
 	return 0;
 }
